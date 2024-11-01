@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_entregar_shipping_history,access_entregar_shipping_history,model_entregar_shipping_history,,1,0,0,0
+access_delivery_carrier,access_delivery_carrier,model_delivery_carrier,,1,1,1,1
